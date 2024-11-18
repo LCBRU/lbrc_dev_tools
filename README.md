@@ -25,7 +25,7 @@ docker compose up {tool service name}
 ## Tools
 ### Redis
 
-[Redis](https://redis.io/) is an in-memory key/value database that can be used as a temporary data store.  Example users are:
+[Redis](https://redis.io/) is an in-memory key/value database that can be used as a temporary data store.  Example uses are:
 - Cache storage
 - Message broker
 
